@@ -3864,11 +3864,11 @@ dl.statistics dt.comment::before {
 /* ajmooncat edit */
 
 .stats dd.AO3E.reading-time::before {
-    background: url(https://images.squidge.org/images/2024/05/05/stats_icon_hits_black.png);
+    background: url("https://zerafinacss.github.io/ao3/stats-icons/hits-01.png");
 }
 
 .stats dd.reading-time::before {
-    background: url(https://images.squidge.org/images/2024/05/05/stats_icon_hits_black.png);
+    background: url("https://zerafinacss.github.io/ao3/stats-icons/hits-01.png");
 }
 
 /*>========== STATS HOVER TEXT ==========<*/
