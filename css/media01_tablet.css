@@ -101,3 +101,15 @@
 .region:has(ol.pagination.actions) form.filters {
   margin-bottom: 7.5em !important;
 }
+
+/* ajmooncat edit */
+/*============================================================
+>> 21 USERSTUFF
+============================================================*/
+
+/* work margins and text */
+#workskin {
+    max-width: 70em;
+    margin: 0 auto;
+    padding: 0 2%;
+}
